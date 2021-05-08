@@ -1,5 +1,5 @@
 # AUTOLIB ELECTRIC CAR-SHARING COMPANY
-# HYPOTHESIS TESTING 
+# Hypothesis Testing
 
 ## Deliverables
 >A Report on Hypothesis testing. 
