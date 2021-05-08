@@ -2,8 +2,8 @@
 # HYPOTHESIS TESTING 
 
 ## Deliverables
-A Report on Hypothesis testing. 
-A Github repository containing your notebook
+->A Report on Hypothesis testing. 
+->A Github repository containing your notebook
 
 ### a) Specifying the Data Analytic Question
 Given two randomly chosen Postal Codes, is the average number of Bluecars taken during weekdays different in the two Postal Codes?
