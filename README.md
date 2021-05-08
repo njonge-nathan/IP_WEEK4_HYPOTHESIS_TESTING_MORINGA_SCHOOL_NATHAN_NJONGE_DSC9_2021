@@ -6,6 +6,14 @@
 
 >A Github repository containing your notebook
 
+## Overview
+
+>Find and deal with outliers, anomalies, and missing data within the dataset.
+
+>Plot appropriate univariate and bivariate summaries recording our observations.
+
+>Implement the solution by performing hypothesis testing.
+
 ### a) Specifying the Data Analytic Question
 Given two randomly chosen Postal Codes, is the average number of Bluecars taken during weekdays different in the two Postal Codes?
 
